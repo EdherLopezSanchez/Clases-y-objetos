@@ -1,4 +1,4 @@
-//EDHER LOPEZ SANCHEZ
+
 #include <iostream>
 
 class empleado
